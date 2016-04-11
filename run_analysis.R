@@ -1,4 +1,5 @@
 library(plyr)
+##author: Suki Lin
 
 ##step1 - Merges the training and the test sets to create one data set
 #read raw data from training set
